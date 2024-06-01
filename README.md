@@ -34,4 +34,5 @@ The HR Dashboard project aims to provide a powerful visual interface for HR prof
 - **Report**: Detailed documentation and guidelines on how to use the dashboard effectively.
 
 Ps: original data will not be displayed in the repository.
+
 ---
